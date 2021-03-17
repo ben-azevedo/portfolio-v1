@@ -1,0 +1,20 @@
+.App {
+  text-align: center;
+  align-items: center;
+  justify-content: center;
+  background: #37292B;
+  display: flex;
+  height: 100vh;
+}
+
+.cls-1 {
+  fill: none;
+  stroke: #BE8254;
+  stroke-linecap: round;
+  stroke-linejoin: round;
+  stroke-width: 8px;
+}
+
+svg {
+  width: 60vw;
+}
